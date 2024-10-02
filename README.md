@@ -27,7 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=spring,java,mysql,nodejs,express,mongodb" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,bootstrap,tailwindcss" />
 </div>
 
 <br/>
